@@ -1,1 +1,0 @@
-# nordomatic-code-test
