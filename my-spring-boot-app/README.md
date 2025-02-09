@@ -57,7 +57,7 @@ This application is a demonstration project showcasing a basic REST API built wi
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd nordomatic-code-test
+    cd nordomatic-code-test/my-spring-boot-app
     ```
 
 3.  **Build the application using Gradle:**
